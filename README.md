@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Vision On Python
 - 💞️ I’m looking to collaborate on
 - 📫 Mail me At jeevansuresh258@gmail.com
-- 🕸 www.jeevans-inventory.herokuapp.com
+- 🕸 bit.ly/jeevansinventory
 
 <!---
 Jeevansuresh/Jeevansuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
